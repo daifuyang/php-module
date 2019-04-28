@@ -110,3 +110,8 @@ Role表和Role_user表一对多关联</br>
 获取当前用户的所有角色</br>
 根据角色ID获取auth_access的授权列表</br>
 判断当前入口是否拥有权限
+
+#### 应用思路
++ 获取当前用户id
++ 根据Role表和Role_user表关联查询出当前用户的角色ID
++ 根据角色获取所有角色对应的权限内容 auth_access
