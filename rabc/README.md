@@ -1,6 +1,4 @@
-# php-module
-记录PHP实现各种常用模块的思路
-## <a href="https://baike.baidu.com/item/RBAC/1328788?fr=aladdin">RABC模块</a>
+## RABC模块
 ### 数据库
 ##### 用户表 User
 <table>
