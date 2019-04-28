@@ -113,3 +113,9 @@ Role表和Role_user表一对多关联</br>
 + 获取当前用户id
 + 根据Role表和Role_user表关联查询出当前用户的角色ID
 + 根据角色获取所有角色对应的权限内容 auth_access
+
+### 联系作者
+@Author：Return_归来<br>
+@Email：belief_dfy@qq.com<br>
+@QQ      ：1140444693<br>
+@website ：www.dfy520.cn
