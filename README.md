@@ -129,7 +129,7 @@ Role表和Role_user表一对多关联</br>
     <div class="form-group">
             <label class="col-sm-2 control-label">
                 <span class="form-required">*</span>
-                {:lang('HOSPITAL_ADDRESS')}
+                地区选择
             </label>
             <div class="col-md-6 col-sm-10">
                 <div style="padding-left: 0" class="col-md-2 col-sm-2">
